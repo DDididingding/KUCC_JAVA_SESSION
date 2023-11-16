@@ -11,7 +11,7 @@ public class ELE {
 		String ele1[] = new String[3];
 		ele1[0] ="이름2";
 		
-		int
-		String//얘도 클래스다 
+//		int
+//		String//얘도 클래스다 
 	}
 }
